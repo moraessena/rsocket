@@ -1,4 +1,4 @@
-# RSOCKET SAMPLE APP
+# 🚀 RSOCKET SAMPLE APP 🍃
 
 ## Description 
 Just a simple project to test rsocket
