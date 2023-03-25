@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://github.com/making/rsc/releases
+HostUrl=https://objects.githubusercontent.com/github-production-release-asset-2e65be/224445169/f912db80-d809-11eb-92e6-0f9d548c3f2e?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20230325%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230325T132039Z&X-Amz-Expires=300&X-Amz-Signature=0ec439a4547328bdd3e88791627bce5431738c4fcdd83701ed286ae68ceb8922&X-Amz-SignedHeaders=host&actor_id=6165807&key_id=0&repo_id=224445169&response-content-disposition=attachment%3B%20filename%3Drsc-0.9.1.jar&response-content-type=application%2Foctet-stream

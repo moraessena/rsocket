@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "rsocket-service"
+		},
+		{
+			"name": "rsocket-shell-client",
+			"path": "rsocket-shell-client"
+		}
+	],
+	"settings": {
+		"java.compile.nullAnalysis.mode": "automatic",
+		"java.configuration.updateBuildConfiguration": "automatic"
+	}
+}
